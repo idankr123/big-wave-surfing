@@ -1,0 +1,11 @@
+img{
+		width:350px;
+		border:2px solid blue;
+}
+body{
+	font-family: 'Noto Serif Telugu', serif;
+		background-color: pink;
+}
+h1{color:#123456;
+		background-color: #465135;
+}
